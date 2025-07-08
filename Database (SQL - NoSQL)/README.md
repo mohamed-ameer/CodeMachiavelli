@@ -24,8 +24,11 @@
 
 ### Tutorials
 - [techonthenet the best SQL Tutorial](https://www.techonthenet.com/sql/index.php) - (practice sql Start with SQL then PL/SQL)
+- [hands on sql practice](https://www.sql-practice.com/)
 - [SQL Island (learn while playing)](https://sql-island.informatik.uni-kl.de/)
 - [SQL ZOO](https://sqlzoo.net/wiki/SQL_Tutorial)
 - [Mode SQL Tutorial](https://mode.com/sql-tutorial)
 - [DataLemur SQL Tutorial](https://datalemur.com/sql-tutorial)
 - [SQL Bolt](https://sqlbolt.com/lesson/introduction)
+
+- [Online SQL Compiler](https://www.programiz.com/sql/online-compiler)
