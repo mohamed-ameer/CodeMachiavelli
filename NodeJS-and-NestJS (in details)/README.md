@@ -5,6 +5,7 @@
 ### Courses
 - [MongoDB by Durga Sir](https://www.youtube.com/playlist?list=PLXHLAo6ZUDp2wtoN5HhFUwxUJcilJneIQ)
 - [Complete MongoDB (Version 8) Course 2025: Zero to Hero](https://www.youtube.com/playlist?list=PL1BztTYDF-QPwd9Qg-nxQk1UYtorhzXLc)
+- [NodeJS Fundamentals ITI](https://www.youtube.com/playlist?list=PLdRrBA8IaU3Xp_qy8X-1u-iqeLlDCmR8a)
 - [A Complete NODE JS Course Step by Step](https://www.youtube.com/playlist?list=PL1BztTYDF-QPdTvgsjf8HOwO4ZVl_LhxS)
 - [Comprehensive Nest JS Course: From Beginner to Expert](https://www.youtube.com/playlist?list=PL1BztTYDF-QPfrzXwoC_6OSLs818uAqN2)
 - [HTML & CSS & JS & MongoDB & NodeJS & ExpressJS by Nerash IT Academy](https://www.youtube.com/playlist?list=PLyptEVvf2NwOxHGszOvdrvXdBcI5aY_wr) - 100 days
