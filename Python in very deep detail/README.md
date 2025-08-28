@@ -18,7 +18,10 @@ This is the best course to learn python in very deep detail
 ### Useful Youtube Channels
 - [Jake Callahan](https://www.youtube.com/@JakeCallahan)
 - [The Real Python Podcast](https://www.youtube.com/playlist?list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ)
-- [PyCon AU](https://www.youtube.com/@PyConAU/videos)
+- [PyCon AU](https://www.youtube.com/@PyConAU/videos) 
+-- PyCon US is the largest annual gathering for the community using and developing the open-source Python programming language.
+- [PyCon US](https://www.youtube.com/@PyConUS)
+- [PyCon 2016](https://www.youtube.com/@PyCon2016/videos)
 - [Carberra](https://www.youtube.com/@Carberra/videos)
 - [Tech With Tim](https://www.youtube.com/@TechWithTim/videos)
 - [ArjanCodes](https://www.youtube.com/@ArjanCodes)

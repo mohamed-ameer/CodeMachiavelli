@@ -14,3 +14,4 @@
 - [DecodedFrontend](https://www.youtube.com/@DecodedFrontend/featured) - Advanced level
 - [Frontend Architecture (Advanced level)](https://www.youtube.com/@d.zhiganov)
 - [Fundamentals of Frontend Architecture](https://frontendatscale.com/courses/frontend-architecture/foundations/introduction/)
+- [Deborah Kurata](https://www.youtube.com/@deborah_kurata/playlists)
