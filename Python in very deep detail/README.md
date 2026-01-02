@@ -25,3 +25,6 @@ This is the best course to learn python in very deep detail
 - [Carberra](https://www.youtube.com/@Carberra/videos)
 - [Tech With Tim](https://www.youtube.com/@TechWithTim/videos)
 - [ArjanCodes](https://www.youtube.com/@ArjanCodes)
+
+### Podcasts
+- [The Real Python Podcast](https://www.youtube.com/playlist?list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ)

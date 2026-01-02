@@ -19,3 +19,13 @@
 - [Microsoft PWA Playlist](https://www.youtube.com/playlist?list=PLlrxD0HtieHjqO1pNqScMngrV7oFro-TY)
 - [Google PWA Playlist](https://www.youtube.com/playlist?list=PLNYkxOF6rcIB2xHBZ7opgc2Mv009X87Hh)
 - [Net Ninja PWA Playlist](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gTxqJBcDmoi5Q2pzDusSL7)
+
+---
+
+## Podcasts
+
+- [Tech Podcast بالعربي](https://www.youtube.com/playlist?list=PLTRDUPO2OmInoyjXpGCRIQ54SJCMihIsC)
+- [بودكاست كلام في البرمجة | Kalam Fel Barmaga](https://www.youtube.com/playlist?list=PL8q8h6vqfkSUBH_JiV5-2fPmHuSIDABdW)
+- [Tek Caffe Podcast](https://www.youtube.com/playlist?list=PLQyfTtXmGOZeOiJZCA6fryQKBdO2bQOYN)
+- [AskDeveloper Podcast - راديو اسأل مطور](https://www.youtube.com/playlist?list=PLJYBTsbldfv98tQGoFchRd-IwsjLM3efz)
+- [Beyond Coding Podcast](https://www.youtube.com/playlist?list=PLX6ivsCcfHDOzMIUioOofyF-h-niZL6Qj)

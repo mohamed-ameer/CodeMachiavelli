@@ -23,6 +23,8 @@ i hope you read my summary pdf first to get a better understanding
 
 the following playlist is the best practical learning resource i have ever found for docker
 
+- [IIEC RISE 1.0 Docker](https://www.youtube.com/playlist?list=PLAi9X1uG6jZ30QGz7FZ55A27jPeY8EwkE)
+- [Master Docker](https://www.youtube.com/watch?v=r6YIlPEC4y4&list=PLlVtbbG169nFr8RzQ4GIxUEznpNR53ERq&index=9)
 - [Docker Practical Course](https://www.youtube.com/playlist?list=PLzNfs-3kBUJnY7Cy1XovLaAkgfjim05RR)
 - [Complete Docker Course - From BEGINNER to PRO! (Learn Containers)](https://www.youtube.com/watch?v=RqTEHSBrYFw)
 

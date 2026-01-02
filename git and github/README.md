@@ -8,6 +8,7 @@
 - [Durga Sir](https://www.youtube.com/playlist?list=PLXHLAo6ZUDp0KZOqDphHiJz4wDg8viChS) - you will not need anything else after this cours
 - [Git & Github Training](https://www.youtube.com/playlist?list=PLVBwYECZ22gn3b6zK5kTyqfSDuAPwEB6V)
 - [Git Advanced بالعربي](https://www.youtube.com/playlist?list=PLDSsH9x1gRyHlHT1gizpNbGqAUpit77XH)
+- [Mastering Git & GitHub](https://www.youtube.com/watch?v=hQJktcBzJUs&list=LL&index=2)
 
 ### Tutorials
 - [Practice git by hand on game](https://kodekloud.com/pages/free-labs/git)
