@@ -3,6 +3,7 @@
 ## Recommended Learning Resources
 
 ### Courses
+- [Linux for beginners](https://www.youtube.com/playlist?list=PL8VzFQ8k4U1LMB14RCwauofMc4BWqVa4B)
 - [Mr.Mikhail (Eime Center)](https://www.youtube.com/playlist?list=PLKHTcQAA0B0FY7laTYgX0SCMFGXezd1Tk) - Full Complete course (20 days)
 - [Mr.Rajesh-Devops](https://www.youtube.com/@rajesh-devops/playlists) - Full Complete course
 - [Master DevOps](https://www.youtube.com/playlist?list=PLlVtbbG169nFr8RzQ4GIxUEznpNR53ERq)
@@ -15,6 +16,7 @@
 - [Git by Durga Sir](https://www.youtube.com/playlist?list=PLXHLAo6ZUDp0KZOqDphHiJz4wDg8viChS)
 - [shell scripting by ITI](https://www.youtube.com/playlist?list=PLNFDrRZdysFyANzEXxzztUlGiCDxZs4Kp)
 - [Gitlab CI/CD](https://www.youtube.com/watch?v=PGyhBwLyK2U&list=LL&index=2)
+- [Gitlab CI/CD & Devops for beginners (udemy)](https://www.udemy.com/course/gitlab-ci-pipelines-ci-cd-and-devops-for-beginners/)
 
 ### Practice
 - [SadServers Labs](https://sadservers.com/) - "Like LeetCode for Linux"
