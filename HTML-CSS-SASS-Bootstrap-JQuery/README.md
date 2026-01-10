@@ -13,6 +13,7 @@
     - day 95 to day 97: ReactJS
     - day 98: Unit Testing
     - day 99: Deployment
+ - [Html/Css/Bootstrap/JavaScript](https://www.youtube.com/playlist?list=PLHZKGvlIq4BHQbg2KQKioeHUbanqqCgVG) - 66 days
 
 ### Tutorials
 - [Frontend Architecture (Advanced level)](https://www.youtube.com/@d.zhiganov)
