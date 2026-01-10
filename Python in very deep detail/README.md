@@ -13,7 +13,11 @@
 
 **THE BEST ONE:**
 This is the best course to learn python in very deep detail
-- [Learn Complete Python In Simple Way](https://www.udemy.com/course/learn-complete-python-tutorial-in-simple-way/)
+- [Learn Complete Python In Simple Way](https://www.udemy.com/course/learn-complete-python-tutorial-in-simple-way/) - +115 hrs
+- [Python Videos K.V.RAO sir](https://www.youtube.com/playlist?list=PLHZKGvlIq4BGJIoHktEDfj_NKZcQp5WA4) - 112 days
+- [Pandas K.V.Rao sir](https://www.youtube.com/playlist?list=PLHZKGvlIq4BGG8g_tUu66v6R_sqv261iz) - 15 days
+- [Matplotlib K.V.RAO sir](https://www.youtube.com/playlist?list=PLHZKGvlIq4BGNdRWF367GQXPs-VVu-XyL) - 9 days
+- [Numpy K.V.RAO Sir](https://www.youtube.com/playlist?list=PLHZKGvlIq4BEuKnrgmNByqlormvb4q-Gn) - 7 days
 
 ### Useful Youtube Channels
 - [Jake Callahan](https://www.youtube.com/@JakeCallahan)
