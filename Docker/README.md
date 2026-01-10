@@ -4,7 +4,12 @@
 
 ### Courses
 
+- [Linux Practical Guide شرح بالعربي للمهندس مصطفي عبدالسلام](https://www.youtube.com/playlist?list=PLLlr6jKKdyK2XmYvNZhqwUDEnZOlQAWS-)
 - [LearnDocker.online](https://learndocker.online/courses/)
+- [Docker شرح بالعربي للمهندس محمد رزق](https://www.youtube.com/playlist?list=PLLlr6jKKdyK2uRL5v__HsjsmylSDKT5fg)
+- [Container Technology 101 شرح بالعربي](https://www.youtube.com/playlist?list=PLLlr6jKKdyK37bQp80r0CkZ9huUOvtKFN)
+- [Docker and Kubernetes | العلبة دي فيها سوعبان](https://www.youtube.com/watch?v=PrusdhS2lmo)
+- [Containers 101](https://www.youtube.com/playlist?list=PLy1Fx2HfcmWDjfcY0__gJSiy0TgYhfBU4)
 
 LearnDocker.online is the most comprehensive online Docker training program on the planet
 
