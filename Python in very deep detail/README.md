@@ -35,6 +35,11 @@ This is the best course to learn python in very deep detail
 - [Simple Python Web Server](https://www.youtube.com/watch?v=hFNZ6kdBgO0)
 - [Build Your Own Web Server from Scratch using Python!](https://www.youtube.com/watch?v=Hncp0mPfUvk)
 
+**Web Penetration Testing(Test your App Security)**
+- [CS دورة اكتشاف ثغرات المواقع للمبتدئين شروحات وتطبيقات عملية | تعلم الامن السيبراني - Bug Bounty](https://www.youtube.com/playlist?list=PLX621demLUSaA7ngeN7UfVzYJihHnEfv0)
+- [THM - Introduction to Web Hacking](https://www.youtube.com/playlist?list=PLe4OB7kyojisGrxIEjn1QPkGw7UQzkeXy)
+- [THM - BurpSuite](https://www.youtube.com/playlist?list=PLe4OB7kyojiu6i971e9UuRTiKi_Lob6HK)
+
 ### Useful Youtube Channels
 - [Jake Callahan](https://www.youtube.com/@JakeCallahan)
 - [The Real Python Podcast](https://www.youtube.com/playlist?list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ)
