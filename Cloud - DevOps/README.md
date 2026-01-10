@@ -3,6 +3,7 @@
 ## Recommended Learning Resources
 
 ### Courses
+- [Linux for Data Engineers | البطريق العضاض يعظ](https://www.youtube.com/watch?v=gojeTqXdBH0)
 - [Linux for beginners](https://www.youtube.com/playlist?list=PL8VzFQ8k4U1LMB14RCwauofMc4BWqVa4B)
 - [Mr.Mikhail (Eime Center)](https://www.youtube.com/playlist?list=PLKHTcQAA0B0FY7laTYgX0SCMFGXezd1Tk) - Full Complete course (20 days)
 - [Mr.Rajesh-Devops](https://www.youtube.com/@rajesh-devops/playlists) - Full Complete course
