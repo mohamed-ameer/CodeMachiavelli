@@ -3,6 +3,7 @@
 ## Recommended Learning Resources
 
 ### Courses
+- [Git and GitHub | شخبط وانت متطمن](https://www.youtube.com/watch?v=Q6G-J54vgKc)
 - [Git and GitHub ITI](https://drive.google.com/drive/folders/1mHLeIMPc5wLN_6OXdop0dRNP84juloVh)
 - [Git and GitHub Tutorial For Beginners | Full Course [2021]](https://www.youtube.com/watch?v=3fUbBnN_H2c)
 - [Durga Sir](https://www.youtube.com/playlist?list=PLXHLAo6ZUDp0KZOqDphHiJz4wDg8viChS) - you will not need anything else after this cours
