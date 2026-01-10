@@ -19,6 +19,22 @@ This is the best course to learn python in very deep detail
 - [Matplotlib K.V.RAO sir](https://www.youtube.com/playlist?list=PLHZKGvlIq4BGNdRWF367GQXPs-VVu-XyL) - 9 days
 - [Numpy K.V.RAO Sir](https://www.youtube.com/playlist?list=PLHZKGvlIq4BEuKnrgmNByqlormvb4q-Gn) - 7 days
 
+**FLASK & FAST API:**
+- [Python FastAPI Playlist + testing + deployment + CI/CD](https://www.youtube.com/playlist?list=PL8VzFQ8k4U1L5QpSapVEzoSfob-4CR8zM)
+- [Flask - WDMM1405 برمجة فلاسك](https://www.youtube.com/playlist?list=PL39RMbpB79NMmAQOuY-PcQvC_8ChA-C3A)
+- [FastAPIسلسلة شرح كامل ل | خطوة بخطوة](https://www.youtube.com/playlist?list=PLGbzY-VLUfcpzhB-iyGvju-NMMez_NNP9)
+- [Flask Basics Arabic](https://www.youtube.com/playlist?list=PLtGOJcWqvbqeJFIXVaN5Uof6MKExgFDE7)
+- [Python - October 2019](https://www.youtube.com/playlist?list=PL3qT37yfwVCgCipR_Q8T3jUPU8hpNC_vd)
+
+**Web Server Basics (how backend server work?):**
+- [Build Your OWN Home Server](https://www.youtube.com/playlist?list=PLB72o2yf_rm6vejs0iiptoSgbTi9pWKEc)
+- [Full HTTP Networking Course – Fetch and REST APIs in JavaScript](https://www.youtube.com/watch?v=2JYT5f2isg4)
+- [From TCP to HTTP | Full Course by @ThePrimeagen](https://www.youtube.com/watch?v=FknTw9bJsXM)
+- [Building a Simple Web Browser in Python](https://www.youtube.com/watch?v=Fxgw_BxZg2I)
+- [Building a Simple HTTP Server in Python](https://www.youtube.com/watch?v=PNt8zXl7EJ0)
+- [Simple Python Web Server](https://www.youtube.com/watch?v=hFNZ6kdBgO0)
+- [Build Your Own Web Server from Scratch using Python!](https://www.youtube.com/watch?v=Hncp0mPfUvk)
+
 ### Useful Youtube Channels
 - [Jake Callahan](https://www.youtube.com/@JakeCallahan)
 - [The Real Python Podcast](https://www.youtube.com/playlist?list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ)
