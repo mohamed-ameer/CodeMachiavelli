@@ -10,6 +10,7 @@
 - [Container Technology 101 شرح بالعربي](https://www.youtube.com/playlist?list=PLLlr6jKKdyK37bQp80r0CkZ9huUOvtKFN)
 - [Docker and Kubernetes | العلبة دي فيها سوعبان](https://www.youtube.com/watch?v=PrusdhS2lmo)
 - [Containers 101](https://www.youtube.com/playlist?list=PLy1Fx2HfcmWDjfcY0__gJSiy0TgYhfBU4)
+- [Tarmeez Academy Docker](https://www.youtube.com/watch?v=Xnu-zoqopNM)
 
 LearnDocker.online is the most comprehensive online Docker training program on the planet
 

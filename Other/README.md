@@ -14,6 +14,18 @@
 
 ---
 
+## Web Server Basics (how backend server work?):
+
+- [Build Your OWN Home Server](https://www.youtube.com/playlist?list=PLB72o2yf_rm6vejs0iiptoSgbTi9pWKEc)
+- [Full HTTP Networking Course – Fetch and REST APIs in JavaScript](https://www.youtube.com/watch?v=2JYT5f2isg4)
+- [From TCP to HTTP | Full Course by @ThePrimeagen](https://www.youtube.com/watch?v=FknTw9bJsXM)
+- [Building a Simple Web Browser in Python](https://www.youtube.com/watch?v=Fxgw_BxZg2I)
+- [Building a Simple HTTP Server in Python](https://www.youtube.com/watch?v=PNt8zXl7EJ0)
+- [Simple Python Web Server](https://www.youtube.com/watch?v=hFNZ6kdBgO0)
+- [Build Your Own Web Server from Scratch using Python!](https://www.youtube.com/watch?v=Hncp0mPfUvk)
+
+---
+
 ## PWA
 
 - [Microsoft PWA Playlist](https://www.youtube.com/playlist?list=PLlrxD0HtieHjqO1pNqScMngrV7oFro-TY)
