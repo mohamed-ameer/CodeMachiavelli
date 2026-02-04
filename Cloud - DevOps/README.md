@@ -19,6 +19,10 @@
 - [Gitlab CI/CD](https://www.youtube.com/watch?v=PGyhBwLyK2U&list=LL&index=2)
 - [Gitlab CI/CD & Devops for beginners (udemy)](https://www.udemy.com/course/gitlab-ci-pipelines-ci-cd-and-devops-for-beginners/)
 
+### YouTube Channels
+- [Valaxy Technologies](https://www.youtube.com/@ValaxyTechnologies/playlists)
+- [The DevOps School](https://www.youtube.com/@TheDevOpsSchool/playlists)
+
 ### Practice
 - [SadServers Labs](https://sadservers.com/) - "Like LeetCode for Linux"
 - [Linux Journey](https://linuxjourney.com/) - "Like Codecademy for Linux"
