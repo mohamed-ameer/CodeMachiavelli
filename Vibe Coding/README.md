@@ -37,7 +37,8 @@
 
 ---
 
-### Claude Code & CLI Tools\
+### Claude Code & CLI Tools
+- [Claude Code Course — Step-by-Step Guide from CLI to Real Workflows](https://www.youtube.com/playlist?list=PL-F5kYFVRcIvZQ_LEbdLIZrohgbf-Vock)
 - [أداة أفضل من Claude Code بمراحل - OpenCode](https://www.youtube.com/watch?v=qKXSV3PMJFI)
 - [الدليل الشامل لاستخدام Claude Code من الصفر وإلى الاحتراف](https://www.youtube.com/watch?v=F2_mn5GXPIg)
 - [Claude Code Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9g4YJeBqChhFJwKQ9TRiivY)
