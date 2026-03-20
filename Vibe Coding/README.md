@@ -10,7 +10,8 @@
 - [AI prompt engineering: A deep dive](https://www.youtube.com/watch?v=T9aRN5JkmL8&t=125s)
 
 **Full courses:**
-- [18 Days of Prompt Engineering by Durga Sir](https://www.youtube.com/playlist?list=PLd3UqWTnYXOnbEBzbfrKLE6cNQLNpS8yB)
+- [22 Days of Generative AI by Durga Sir](https://www.youtube.com/playlist?list=PLd3UqWTnYXOlwziAw2HGnuQNmhV09mDBJ)
+- [44 Days of Prompt Engineering by Durga Sir](https://www.youtube.com/playlist?list=PLd3UqWTnYXOnbEBzbfrKLE6cNQLNpS8yB)
 - [إزاي تخلي الـذكاء الاصطناعى يفهمك؟ | prompt/context engineering crash course](https://www.youtube.com/watch?v=COyeu9okzsE)
 - [Prompt Engineering Tutorial – Master ChatGPT and LLM Responses](https://www.youtube.com/watch?v=_ZvnD73m40o)
 - [$2.4M of Prompt Engineering Hacks in 53 Mins (GPT, Claude)](https://www.youtube.com/watch?v=CxbHw93oWP0)
