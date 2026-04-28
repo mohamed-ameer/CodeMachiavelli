@@ -5,7 +5,7 @@
 ### Courses
 - [Linux for Data Engineers | البطريق العضاض يعظ](https://www.youtube.com/watch?v=gojeTqXdBH0)
 - [Linux for beginners](https://www.youtube.com/playlist?list=PL8VzFQ8k4U1LMB14RCwauofMc4BWqVa4B)
-- [Mr.Mikhail (Eime Center)](https://www.youtube.com/playlist?list=PLKHTcQAA0B0FY7laTYgX0SCMFGXezd1Tk) - Full Complete course (20 days)
+- [Mr.Mikhail (Eime Center) Devops Bootcamp](https://www.youtube.com/playlist?list=PLKHTcQAA0B0FY7laTYgX0SCMFGXezd1Tk) - Full Complete course (20 days)
 - [Mr.Rajesh-Devops](https://www.youtube.com/@rajesh-devops/playlists) - Full Complete course
 - [Master DevOps](https://www.youtube.com/playlist?list=PLlVtbbG169nFr8RzQ4GIxUEznpNR53ERq)
 - [Devops Training 43 sessions](https://www.youtube.com/playlist?list=PLVBwYECZ22gkRPAVeYvT7IScEV2avJ-r0)
@@ -22,6 +22,7 @@
 ### YouTube Channels
 - [Valaxy Technologies](https://www.youtube.com/@ValaxyTechnologies/playlists)
 - [The DevOps School](https://www.youtube.com/@TheDevOpsSchool/playlists)
+- [Rajesh Devops](https://www.youtube.com/@rajesh-devops/playlists)
 
 ### Practice
 - [SadServers Labs](https://sadservers.com/) - "Like LeetCode for Linux"
