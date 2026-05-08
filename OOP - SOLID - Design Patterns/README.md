@@ -28,5 +28,13 @@
 - [Why OOP is EVIL?!!](https://www.youtube.com/watch?v=sVgIgSJkruI)
 - [Object-Oriented Programming, lecture by Daniel Ingalls](https://www.youtube.com/watch?v=Ao9W93OxQ7U&list=LL&index=2)
 
+4. Why Not Using OOP? FP vs OOP?
+- [Object-Oriented Programming Is The Root Of All Evil](https://www.youtube.com/watch?v=sVgIgSJkruI&list=LL&index=14)
+- [Object-Oriented Programming is Garbage: 3800 SLOC example](https://www.youtube.com/watch?v=V6VP-2aIcSc&list=LL&index=13)
+- [Object-Oriented Programming is Bad](https://www.youtube.com/watch?v=QM1iUe6IofM&list=LL&index=12)
+- [FP vs OOP | For Dummies](https://www.youtube.com/watch?v=08CWw_VD45w&list=LL&index=11)
+- [Functional Programming IS NO BETTER than Object Oriented Programming | Prime Reacts](https://www.youtube.com/watch?v=FjfgIImzhxc&list=LL&index=10)
+- [Functional Programming | Full Course](https://www.youtube.com/watch?v=5QZYGU0C2OA&list=LL&index=9)
+
 ### Websites
 - [Refactoring Guru](https://refactoring.guru/)
