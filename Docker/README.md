@@ -11,6 +11,11 @@
 - [Docker and Kubernetes | العلبة دي فيها سوعبان](https://www.youtube.com/watch?v=PrusdhS2lmo)
 - [Containers 101](https://www.youtube.com/playlist?list=PLy1Fx2HfcmWDjfcY0__gJSiy0TgYhfBU4)
 - [Tarmeez Academy Docker](https://www.youtube.com/watch?v=Xnu-zoqopNM)
+- Portainer:
+- [Learn Portainer](https://www.youtube.com/playlist?list=PLnFWJCugpwfz7r7qSnJ7Pa8RN4MJcuT9r)
+- [Portainer - The EASIEST WAY to manage your Docker apps](https://www.youtube.com/watch?v=ARuyau0_j28&list=LL&index=45)
+- [Portainer Install Ubuntu tutorial - manage your docker containers](https://www.youtube.com/watch?v=ljDI5jykjE8&list=LL&index=46)
+- [Portainer in AR](https://www.youtube.com/watch?v=nanvypQBgA0&list=LL&index=47)
 
 LearnDocker.online is the most comprehensive online Docker training program on the planet
 
