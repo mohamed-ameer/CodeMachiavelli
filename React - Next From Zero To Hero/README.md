@@ -8,3 +8,4 @@
 - [React in depth](https://www.youtube.com/playlist?list=PLovN13bqAx7CKHNJnW3npFEXlXUQBghNI)
 - [Frontend Architecture (Advanced level)](https://www.youtube.com/@d.zhiganov)
 - [Fundamentals of Frontend Architecture](https://frontendatscale.com/courses/frontend-architecture/foundations/introduction/)
+- [React Diploma 50 Days](https://www.youtube.com/playlist?list=PLVOVDDbqc5i3QT892svuvhb4IfDxHnFt2)
