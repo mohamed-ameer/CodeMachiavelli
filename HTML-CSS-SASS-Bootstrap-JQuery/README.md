@@ -14,6 +14,7 @@
     - day 98: Unit Testing
     - day 99: Deployment
  - [Html/Css/Bootstrap/JavaScript](https://www.youtube.com/playlist?list=PLHZKGvlIq4BHQbg2KQKioeHUbanqqCgVG) - 66 days
+ - [HTML, CSS, Bootstrap, JS by sudhakar in 20 days](https://www.youtube.com/playlist?list=PLVOVDDbqc5i1n4GYLvSLzYMXTAc8OzaPt)
 
 ### Tutorials
 - [Frontend Architecture (Advanced level)](https://www.youtube.com/@d.zhiganov)
