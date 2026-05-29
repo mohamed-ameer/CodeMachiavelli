@@ -5,7 +5,10 @@
 **REMEMBER**: 
 1. In software engineering, there is no one-size-fits-all solution. The most important thing is to understand the problem and the requirements, and then choose the best solution for the problem.
 2. Everything in software industry is surrounding arround the data and how to manipulate it.
-3. Data is the backbone of any software. 
+3. Data is the backbone of any software.
+
+### Sites
+- [leetcode](https://leetcode.com/problemset/)
 
 ### Courses
 - [Data Structures and Algorithms - Richard Buckland](https://www.youtube.com/playlist?list=PLE621E25B3BF8B9D1)
