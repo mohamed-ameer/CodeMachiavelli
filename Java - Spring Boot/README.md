@@ -12,3 +12,4 @@
 - [Hibernate by DurgaSoft](https://www.youtube.com/playlist?list=PLd3UqWTnYXOn880_ZAbyhgZTsU-7dItqc)
 - [Spring Boot & Microservices](https://www.youtube.com/playlist?list=PLXHLAo6ZUDp2n1fFfbSgNUvpuv44_s0bj)
 - [Spring Framework Full Course (i think this is the best playlist for spring overall)](https://www.youtube.com/playlist?list=PL-bgVzzRdaPhNeXyQBtp8hMlUc14J2kRK)
+- [Spring and Spring Boot By Durga Soft](https://www.durgasoftonline.com/courses/JAVA-Spring-5ee5e2c60cf258afb2078619#tableofcontents)
