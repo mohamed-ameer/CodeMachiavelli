@@ -5,6 +5,7 @@
 ### Courses
 
 - [Linux Practical Guide شرح بالعربي للمهندس مصطفي عبدالسلام](https://www.youtube.com/playlist?list=PLLlr6jKKdyK2XmYvNZhqwUDEnZOlQAWS-)
+- [Containers & Kubernetes [بالعربي البسيط]](https://www.youtube.com/playlist?list=PLZbj6s7meYk8fharEP8BsYr0XA43A71l6)
 - [LearnDocker.online](https://learndocker.online/courses/)
 - [Docker شرح بالعربي للمهندس محمد رزق](https://www.youtube.com/playlist?list=PLLlr6jKKdyK2uRL5v__HsjsmylSDKT5fg)
 - [Container Technology 101 شرح بالعربي](https://www.youtube.com/playlist?list=PLLlr6jKKdyK37bQp80r0CkZ9huUOvtKFN)
