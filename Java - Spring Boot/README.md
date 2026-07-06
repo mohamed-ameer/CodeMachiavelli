@@ -3,6 +3,7 @@
 ## Recommended Learning Resources
 
 ### Courses
+- [Oracle Java Certification OCA 1Z0-808](https://www.youtube.com/playlist?list=PLd3UqWTnYXOl_KwGTt4BZe2k3q2Yu3y1f)
 - [Java Core From 0 to Master (the best course ever that will make you master java)](https://www.youtube.com/playlist?list=PLd3UqWTnYXOmx_J1774ukG_rvrpyWczm0)
 - [JDBC by Durga Sir part 1](https://www.udemy.com/course/complete-jdbc-programming-part-1)
 - [JDBC by Durga Sir part 2](https://www.udemy.com/course/complete-jdbc-programming-part-2)
