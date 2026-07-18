@@ -4,6 +4,7 @@
 
 ### Courses
 - [Oracle Java Certification OCA 1Z0-808](https://www.youtube.com/playlist?list=PLd3UqWTnYXOl_KwGTt4BZe2k3q2Yu3y1f)
+- [Java Certification 8 & 11 OCJA (1Z0 - 808 & 815 ) by Durga](https://www.youtube.com/playlist?list=PLd3UqWTnYXOnujVvl3wiZfrFKUEg9jBeA)
 - [Java Core From 0 to Master (the best course ever that will make you master java)](https://www.youtube.com/playlist?list=PLd3UqWTnYXOmx_J1774ukG_rvrpyWczm0)
 - [Java SE (Core) by ibrahim eladdah](https://www.youtube.com/playlist?list=PLLlr6jKKdyK1Nzab7KmmBs5Fz0E6LY4fZ)
 - [Java EE (Servlets & JSP) by ibrahim eladdah](https://www.youtube.com/playlist?list=PLLlr6jKKdyK2qA9r2rmNyl-99sGBSW1pA)
