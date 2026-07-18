@@ -12,13 +12,19 @@
 **Full courses:**
 - [22 Days of Generative AI by Durga Sir](https://www.youtube.com/playlist?list=PLd3UqWTnYXOlwziAw2HGnuQNmhV09mDBJ)
 - [49 Days of Prompt Engineering by Durga Sir](https://www.youtube.com/playlist?list=PLd3UqWTnYXOnbEBzbfrKLE6cNQLNpS8yB)
-- [17 Days of AI Agents by Durga Sir](https://www.youtube.com/playlist?list=PLd3UqWTnYXOn5sLxrwSCIQrrbNoKV22HS)
-- [إزاي تخلي الـذكاء الاصطناعى يفهمك؟ | prompt/context engineering crash course](https://www.youtube.com/watch?v=COyeu9okzsE)
+- [54 Days of AI Agents by Durga Sir](https://www.youtube.com/playlist?list=PLd3UqWTnYXOn5sLxrwSCIQrrbNoKV22HS)
+- [46 Days Claude AI Mastery - Build AI Agents & Smart Automations tutorials by Mr. DURGA](https://www.youtube.com/playlist?list=PLg0mKOf4Z3XcHgnB01vDqrNh7mt54Vp9G)
+- [Mastering OpenAI Codex, Work & Custom GPTs by Mr. DURGA](https://www.youtube.com/playlist?list=PLI7xEYXD8JT0)
+
+---
+
+
 - [Prompt Engineering Tutorial – Master ChatGPT and LLM Responses](https://www.youtube.com/watch?v=_ZvnD73m40o)
 - [$2.4M of Prompt Engineering Hacks in 53 Mins (GPT, Claude)](https://www.youtube.com/watch?v=CxbHw93oWP0)
 - [You SUCK at Prompting AI (Here's the secret)](https://www.youtube.com/watch?v=pwWBcsxEoLk&list=LL&index=3)
 - [Prompt Engineering Guide - From Beginner to Advanced](https://www.youtube.com/watch?v=uDIW34h8cmM&list=LL&index=2)
 - [Prompt Engineering for Instruction-Tuned LLM | In Arabic](https://www.youtube.com/playlist?list=PL9yAM5pvSfU6l5l__v3QvxLfzmribJ5L9)
+- [إزاي تخلي الـذكاء الاصطناعى يفهمك؟ | prompt/context engineering crash course](https://www.youtube.com/watch?v=COyeu9okzsE)
 - [بودكاست كتاب تشيب هوين AI Engineering](https://www.youtube.com/playlist?list=PL63XjcZagejh367DaWYacFbvIV0VmaKxU)
 
 ---
