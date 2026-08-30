@@ -12,6 +12,7 @@
 - [shell scripting by ITI](https://www.youtube.com/playlist?list=PLNFDrRZdysFyANzEXxzztUlGiCDxZs4Kp)
 
 #### Devops
+- [DurgaSoft](https://www.durgasoftonline.com/courses/DEVOPS-WITH-AWS-6999d91a6c61f719a92f6386)
 - [Mr.Mikhail (Eime Center) Devops Bootcamp](https://www.youtube.com/playlist?list=PLKHTcQAA0B0FY7laTYgX0SCMFGXezd1Tk) - Full Complete course (20 days)
 - [Mr.Rajesh-Devops](https://www.youtube.com/@rajesh-devops/playlists) - Full Complete course
 - [Master DevOps](https://www.youtube.com/playlist?list=PLlVtbbG169nFr8RzQ4GIxUEznpNR53ERq)
