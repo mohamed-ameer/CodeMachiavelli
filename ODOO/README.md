@@ -9,6 +9,7 @@
 
 ---
 
+- [Odoo From Scratch - Online Technical Course](https://www.youtube.com/playlist?list=PLMqez5OTYkIRmprBTIcnrZCoU1S-tcLr2)
 - [ODOO ITI 5 Days](https://www.youtube.com/playlist?list=PLesfn4TAj57Xec643Z-N85ZEzjVP2PK5_)
 - [ODOO ITI Mansoura 3 Days](https://drive.google.com/drive/u/0/folders/185pBCeVcHVYIBDdzWu_S-ppuz8Br22I5?sort=13&direction=a)
 - [ODOO Support Diploma](https://www.youtube.com/playlist?list=PL9xHFggOjESTwI4YiMoq8RpQHUqE7kYYM)
