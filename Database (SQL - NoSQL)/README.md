@@ -19,6 +19,7 @@
 - [MongoDB by Durga Sir](https://www.youtube.com/playlist?list=PLXHLAo6ZUDp2wtoN5HhFUwxUJcilJneIQ)
 - [Complete MongoDB (Version 8) Course 2025: Zero to Hero](https://www.youtube.com/playlist?list=PL1BztTYDF-QPwd9Qg-nxQk1UYtorhzXLc)
 - SQL:
+- [SQL Ultimate Course](https://www.youtube.com/playlist?list=PLNcg_FV9n7qZY_2eAtUzEUulNjTJREhQe)
 - [Learn SQL by Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst/courses)
 - [SQL for Data Analysis | شاهد كيف أصبح الفيل والدرفيل أصدقاء](https://www.youtube.com/watch?v=kb-_GbpH3sQ)
 - [techTFQ All What You need to know about SQL](https://www.youtube.com/@techTFQ/playlists)
