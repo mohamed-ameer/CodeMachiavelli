@@ -10,6 +10,7 @@
 - [My Own Redis From Scratch In Python: The Python Expert Guide](https://www.youtube.com/playlist?list=PLh5pG3vhdCJ3f9YpILil0Pzi-JURswobx)
 - [Python Features](https://www.youtube.com/playlist?list=PLC0nd42SBTaMpVAAHCAifm5gN2zLk2MBo) - Advanced
 - [Software Design in Python](https://www.youtube.com/playlist?list=PLC0nd42SBTaNuP4iB4L6SJlMaHE71FG6N) - Advanced
+- [Python Ultimate Course](https://www.youtube.com/playlist?list=PLNcg_FV9n7qZGfFl2ANI_zISzNp257Lwn)
 
 **THE BEST ONE:**
 This is the best course to learn python in very deep detail
@@ -52,6 +53,13 @@ This is the best course to learn python in very deep detail
 - [Carberra](https://www.youtube.com/@Carberra/videos)
 - [Tech With Tim](https://www.youtube.com/@TechWithTim/videos)
 - [ArjanCodes](https://www.youtube.com/@ArjanCodes)
+- [The Theory Of Code](https://www.youtube.com/@TheTheoryOfCode/playlists)
+
+### Other
+- [Python + Rabbitmq](https://www.youtube.com/playlist?list=PLtGOJcWqvbqet5GDthlWAynwYNGszl7Bf)
+- [Python Celery - Distributed Task Queue](https://www.youtube.com/playlist?list=PL_dsdStdDXbo0t9moEvuAGPiOJM5_8qwn)
+- [Redis - An In-Memory NoSQL Database](https://www.youtube.com/playlist?list=PL_dsdStdDXbpRGO3kIfwhYzmp56WYFb97)
+- [Python Multi Threading and Multi Processing](https://www.youtube.com/playlist?list=PL_dsdStdDXbruQyokDHb5W1cJjLvJUlvI)
 
 ### Podcasts
 - [The Real Python Podcast](https://www.youtube.com/playlist?list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ)
