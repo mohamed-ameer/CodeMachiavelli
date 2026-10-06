@@ -1,5 +1,8 @@
 # [Other Courses & Recommended Books & Tools & Resources]
 
+## Beyond Code 
+- [Beyond Code](https://www.youtube.com/playlist?list=PLYppEdwpgHPc)
+
 ## How to create VSCode Extensions
 
 - [Creating a VS Code Extension - Crash Course (Developing Visual Studio Code Extensions)](https://www.youtube.com/watch?v=xgkDVUL0MxM&list=LL&index=5)
