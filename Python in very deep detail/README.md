@@ -42,6 +42,9 @@ This is the best course to learn python in very deep detail
 - [THM - Introduction to Web Hacking](https://www.youtube.com/playlist?list=PLe4OB7kyojisGrxIEjn1QPkGw7UQzkeXy)
 - [THM - BurpSuite](https://www.youtube.com/playlist?list=PLe4OB7kyojiu6i971e9UuRTiKi_Lob6HK)
 - [Web Application Security شرح بالعربي](https://www.youtube.com/playlist?list=PLLlr6jKKdyK03AlNQ3Wyf7egZrdNf3-hr)
+- [OWASP TOP 10](https://www.youtube.com/playlist?list=PLsy9zuhBu55nnFmFDQ3AAVYneK_AEq6wm)
+- [THM - Web Hacking](https://www.youtube.com/playlist?list=PLe4OB7kyojivxTa41cZ-06mQfQe6Fntqr)
+- [OWASP Top 10 Web Application Security Risks](https://www.youtube.com/watch?v=z_3VcU_FEI4&list=LL&index=2)
 
 ### Useful Youtube Channels
 - [Jake Callahan](https://www.youtube.com/@JakeCallahan)
