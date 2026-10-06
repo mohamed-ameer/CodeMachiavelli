@@ -52,7 +52,6 @@
 - [Python Programming for Finance](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcOdF96TBtRtuQksErCEBYZ)
 - [Python for Finance](https://www.youtube.com/playlist?list=PLdtqDMvm2lvTASUE94XrjcyCe6seYtFSd)
 - [Python For Finance & Risk Management](https://www.youtube.com/watch?v=-autEKjens8)
-
 - [Financial Technology | The Basics](https://www.youtube.com/watch?v=5UsPML-_Wuc)
 - [Fintech Fundamentals | Free Fintech Course](https://www.youtube.com/playlist?list=PLGnJEe8JjRIM)
 - [Fintech Era & Blockchain](https://www.youtube.com/playlist?list=PL_a6OcyEJVumz8qL8vyyPDH12P8NXI940)
