@@ -27,6 +27,7 @@
 - [OOP ITI](https://www.youtube.com/playlist?list=PLPJ4DGyaHe1gZSEyHp6JkqfZ-kxblSKSf)
 - [Why OOP is EVIL?!!](https://www.youtube.com/watch?v=sVgIgSJkruI)
 - [Object-Oriented Programming, lecture by Daniel Ingalls](https://www.youtube.com/watch?v=Ao9W93OxQ7U&list=LL&index=2)
+- [OOP intro short videos](https://www.youtube.com/playlist?list=PL3k1H1_dTqIH7_GhoQkCC0peLQyNJrRjr)
 
 4. Why Not Using OOP? FP vs OOP?
 - [Object-Oriented Programming Is The Root Of All Evil](https://www.youtube.com/watch?v=sVgIgSJkruI&list=LL&index=14)
