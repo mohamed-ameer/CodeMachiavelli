@@ -44,3 +44,19 @@
 - [Tek Caffe Podcast](https://www.youtube.com/playlist?list=PLQyfTtXmGOZeOiJZCA6fryQKBdO2bQOYN)
 - [AskDeveloper Podcast - راديو اسأل مطور](https://www.youtube.com/playlist?list=PLJYBTsbldfv98tQGoFchRd-IwsjLM3efz)
 - [Beyond Coding Podcast](https://www.youtube.com/playlist?list=PLX6ivsCcfHDOzMIUioOofyF-h-niZL6Qj)
+
+---
+
+## Fintech Foundametals
+- [Python for Finance](https://www.youtube.com/playlist?list=PLqpCwow11-Oq_ENXbaHso3WqUjRq_xhRG)
+- [Python Programming for Finance](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcOdF96TBtRtuQksErCEBYZ)
+- [Python for Finance](https://www.youtube.com/playlist?list=PLdtqDMvm2lvTASUE94XrjcyCe6seYtFSd)
+- [Python For Finance & Risk Management](https://www.youtube.com/watch?v=-autEKjens8)
+
+- [Financial Technology | The Basics](https://www.youtube.com/watch?v=5UsPML-_Wuc)
+- [Fintech Fundamentals | Free Fintech Course](https://www.youtube.com/playlist?list=PLGnJEe8JjRIM)
+- [Fintech Era & Blockchain](https://www.youtube.com/playlist?list=PL_a6OcyEJVumz8qL8vyyPDH12P8NXI940)
+- [MIT 15.S08 FinTech: Shaping the Financial World, Spring 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Q_RVDn6srWbLV_zFnd9n0)
+- [Basics of Financial Technology: Fintech](https://www.youtube.com/playlist?list=PLqMl6r3x6BUTG9VqVohMvS4aLc53uC_GC)
+- [Introduction  to FinTech | Free Course](https://www.youtube.com/playlist?list=PLl3-0Xe_motRYdlThQrTpzuqCaAPxuRTj)
+- [LEARN FINTECH IN ONE VIDEO](https://www.youtube.com/watch?v=dIAhmN8dfUU)
