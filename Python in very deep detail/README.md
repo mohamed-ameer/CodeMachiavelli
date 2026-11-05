@@ -47,6 +47,7 @@ This is the best course to learn python in very deep detail
 - [OWASP Top 10 Web Application Security Risks](https://www.youtube.com/watch?v=z_3VcU_FEI4&list=LL&index=2)
 
 ### Useful Youtube Channels
+- [David Beazley](https://www.youtube.com/@dabeazllc)
 - [Jake Callahan](https://www.youtube.com/@JakeCallahan)
 - [The Real Python Podcast](https://www.youtube.com/playlist?list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ)
 - [PyCon AU](https://www.youtube.com/@PyConAU/videos) 
