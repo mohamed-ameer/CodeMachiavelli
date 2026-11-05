@@ -58,6 +58,7 @@ This is the best course to learn python in very deep detail
 - [Tech With Tim](https://www.youtube.com/@TechWithTim/videos)
 - [ArjanCodes](https://www.youtube.com/@ArjanCodes)
 - [The Theory Of Code](https://www.youtube.com/@TheTheoryOfCode/playlists)
+- [Ssali Jonathan](https://www.youtube.com/@SsaliJonathan/playlists)
 
 ### Other
 - [Python + Rabbitmq](https://www.youtube.com/playlist?list=PLtGOJcWqvbqet5GDthlWAynwYNGszl7Bf)
